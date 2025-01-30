@@ -1,1 +1,11 @@
-flet
+ kivy.app 
+ kivy.uix.boxlayout 
+ kivy.uix.button 
+ kivy.uix.label 
+ kivy.uix.image 
+ kivy.uix.filechooser 
+ pyzbar.pyzbar
+ PIL 
+ Crypto.Cipher
+ Crypto.Util.Padding
+ 
